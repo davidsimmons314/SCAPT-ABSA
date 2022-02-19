@@ -1,7 +1,9 @@
 # Fork used for CSE 517 project
 
 David Simmons, Bohan Song, Moses Prasad Varghese
+
 University of Washington
+
 simmons3@uw.edu, bs801@uw.edu, mosespv@uw.edu
 
 
