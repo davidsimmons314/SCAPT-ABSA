@@ -1,3 +1,10 @@
+# Fork used for CSE 517 project
+
+David Simmons, Bohan Song, Moses Prasad Varghese
+University of Washington
+simmons3@uw.edu, bs801@uw.edu, mosespv@uw.edu
+
+
 # SCAPT-ABSA
 
 Code for EMNLP2021 paper: ["Learning Implicit Sentiment in Aspect-based Sentiment Analysis with Supervised Contrastive Pre-Training"](https://aclanthology.org/2021.emnlp-main.22.pdf)
