@@ -1,0 +1,316 @@
+<sentences>
+    <sentence id="100:1">
+        <text>Boot time - Fast.</text>
+        <aspectTerms>
+            <aspectTerm term="Boot time" polarity="positive" from="0" to="9" implicit_sentiment="False" opinion_words="Fast"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="101:1">
+        <text>User friendly and has a nice processor.</text>
+        <aspectTerms>
+            <aspectTerm term="battery life" polarity="positive" from="46" to="58" implicit_sentiment="False" opinion_words="Good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="103:1">
+        <text>I literally only had this computer for 30 days and it is acting crazy it will not update and will not allow me to use all of the computer features at all this sucks and I want my money back.</text>
+        <aspectTerms>
+            <aspectTerm term="features" polarity="negative" from="138" to="146" implicit_sentiment="False" opinion_words="acting crazy will not update will not allow me to use"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="104:1">
+        <text>Im really enjoying my new Dell laptop. I love the features and how the feel of typing on the keyboard. I reccomend this laptop for the price (: Super satisfied.</text>
+        <aspectTerms>
+            <aspectTerm term="price" polarity="positive" from="135" to="140" implicit_sentiment="False" opinion_words="enjoying recommend"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="105:1">
+        <text>Poor quality. Had to return it in less than two weeks due to a horrible fan noise that came out of nowhere. Too bad it happened, I really liked this laptop for its performance features but its build quality is too questionable.</text>
+        <aspectTerms>
+            <aspectTerm term="feature" polarity="positive" from="176" to="183" implicit_sentiment="False" opinion_words="liked"/>
+            <aspectTerm term="fan noise" polarity="negative" from="72" to="81" implicit_sentiment="False" opinion_words="horrible"/>
+            <aspectTerm term="quality" polarity="negative" from="4" to="11" implicit_sentiment="False" opinion_words="Poor questionable"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="106:1">
+        <text>Poor battery life. Display and speed are okay. In Overall will not recommend.</text>
+        <aspectTerms>
+            <aspectTerm term="Display" polarity="neutral" from="18" to="24" implicit_sentiment="True"/>
+            <aspectTerm term="battery life" polarity="negative" from="4" to="16" implicit_sentiment="False" opinion_words="Poor"/>
+            <aspectTerm term="speed" polarity="neutral" from="29" to="34" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="107:1">
+        <text>I learning to love this light weight laptop for it's functionality and it's speed.  The keys are large enough that I don't have to squint and the only issue is the light that shows the keys, I wish would stay on longer.</text>
+        <aspectTerms>
+            <aspectTerm term="light weight" polarity="positive" from="24" to="36" implicit_sentiment="False" opinion_words="love"/>
+            <aspectTerm term="speed" polarity="positive" from="76" to="81" implicit_sentiment="False" opinion_words="love"/>
+            <aspectTerm term="keys" polarity="positive" from="88" to="92" implicit_sentiment="False" opinion_words="large enough that I don't have to squint"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="108:1">
+        <text>GREAT LAPTOP OVERALL, good speed. Love the fact that it is a touch screen.</text>
+        <aspectTerms>
+            <aspectTerm term="screen" polarity="positive" from="67" to="73" implicit_sentiment="False" opinion_words="Love"/>
+            <aspectTerm term="speed" polarity="positive" from="27" to="32" implicit_sentiment="False" opinion_words="good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="109:1">
+        <text>Extremely simple to set up.  Powerful enough to run statistics software for class, while I'm taking notes in Google Docs and checking the syllabus online.  The processing speed is good, and graphics are great.  Figuring out how to access the software that comes with it (McAfee, I think???) via Best Buy's "library" is a bit confusing, but overall a great purchase experience.</text>
+        <aspectTerms>
+            <aspectTerm term="set up" polarity="positive" from="20" to="26" implicit_sentiment="False" opinion_words="Extremely simple"/>
+            <aspectTerm term="statistics software" polarity="positive" from="52" to="72" implicit_sentiment="False" opinion_words="Powerful"/>
+            <aspectTerm term="speed" polarity="positive" from="171" to="176" implicit_sentiment="False" opinion_words="good"/>
+            <aspectTerm term="graphics" polarity="positive" from="190" to="198" implicit_sentiment="False" opinion_words="great"/>
+            <aspectTerm term="access the software" polarity="negative" from="231" to="250" implicit_sentiment="False" opinion_words="confusing"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="111:1">
+        <text>There are better laptops for the price.</text>
+        <aspectTerms>
+            <aspectTerm term="price" polarity="negative" from="33" to="38" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="112:1">
+        <text>Great machine for the price. Good performance look and feel. I highly recommend Dell products.</text>
+        <aspectTerms>
+            <aspectTerm term="performance" polarity="positive" from="34" to="45" implicit_sentiment="False" opinion_words="Good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="113:1">
+        <text>Performance is not good. Though I haven't tested using complex applications because the laptop keeps hanging for small apps like one note, word, etc. I don't recommend this at all. Best buy is not accepting returns as the return period is expired which is 20 days (Unusual).</text>
+        <aspectTerms>
+            <aspectTerm term="Performance" polarity="negative" from="0" to="10" implicit_sentiment="False" opinion_words="not good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="114:1">
+        <text>Very quick and easy to set up. The performance seems good to this point and the battery life is strong. The only downside is that it seems a bit heavy for it's size.</text>
+        <aspectTerms>
+            <aspectTerm term="size" polarity="negative" from="160" to="164" implicit_sentiment="False" opinion_words="downside heavy"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="115:1">
+        <text>Very quick and easy to set up. The performance seems good to this point and the battery life is strong. The only downside is that it seems a bit heavy for it's size.</text>
+        <aspectTerms>
+            <aspectTerm term="battery life" polarity="positive" from="80" to="92" implicit_sentiment="False" opinion_words="strong"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="116:1">
+        <text>Nice screen. Mouse stopped working after a week or two. I have to use an external mouse.</text>
+        <aspectTerms>
+            <aspectTerm term="working" polarity="negative" from="13" to="18" implicit_sentiment="False" opinion_words="stopped working"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="117:1">
+        <text>Nice screen. Mouse stopped working after a week or two. I have to use an external mouse.</text>
+        <aspectTerms>
+            <aspectTerm term="screen" polarity="positive" from="4" to="10" implicit_sentiment="False" opinion_words="Nice"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="118:1">
+        <text>My only complaints are battery life - only 8 hours and only 2 USB ports.</text>
+        <aspectTerms>
+            <aspectTerm term="USB ports" polarity="negative" from="62" to="71" implicit_sentiment="False" opinion_words="complaints"/>
+            <aspectTerm term="battery life" polarity="negative" from="23" to="35" implicit_sentiment="False" opinion_words="complaints"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="119:1">
+        <text>I am very pleased with this laptop. I love the back lit keyboard,</text>
+        <aspectTerms>
+            <aspectTerm term="keyboard" polarity="positive" from="56" to="64" implicit_sentiment="False" opinion_words="love"/>
+            <aspectTerm term="laptop" polarity="positive" from="28" to="34" implicit_sentiment="False" opinion_words="pleased"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="120:1">
+        <text>black keyboard hard to see in dim light
+a few slow responses to keys
+had weird noise soon after purchase and took in to check</text>
+        <aspectTerms>
+            <aspectTerm term="keyboard" polarity="negative" from="6" to="64" implicit_sentiment="True"/>
+            <aspectTerm term="keys" polarity="negative" from="64" to="68" implicit_sentiment="False" opinion_words="slow"/>
+            <aspectTerm term="noise" polarity="negative" from="79" to="84" implicit_sentiment="False" opinion_words="weird"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="121:1">
+        <text>My first AMD based laptop and I have to say, I am impressed.  It has great fast processor, lots of RAM, and plenty of storage for all of my needs.  Browsing is fast, wireless networking adapter works great, overall device runs cool to the touch.  Competitively priced.</text>
+        <aspectTerms>
+            <aspectTerm term="processor" polarity="positive" from="80" to="89" implicit_sentiment="False" opinion_words="fast"/>
+            <aspectTerm term="storage" polarity="positive" from="118" to="127" implicit_sentiment="False" opinion_words="plenty"/>
+            <aspectTerm term="priced" polarity="positive" from="261" to="267" implicit_sentiment="False" opinion_words="Competitively"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="122:1">
+        <text>Browsing is fast, wireless networking adapter works great, overall device runs cool to the touch.</text>
+        <aspectTerms>
+            <aspectTerm term="Browsing" polarity="positive" from="0" to="7" implicit_sentiment="False" opinion_words="fast"/>
+            <aspectTerm term="adapter" polarity="positive" from="38" to="45" implicit_sentiment="False" opinion_words="great"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="123:1">
+        <text>WiFi is particularly snappy in this laptop thanks to the 802.11ax-capable card installed.</text>
+        <aspectTerms>
+            <aspectTerm term="WiFi" polarity="negative" from="0" to="3" implicit_sentiment="False" opinion_words="snappy"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="124:1">
+        <text>Good laptop, worked well for me but I had a hard time connecting it to WiFi</text>
+        <aspectTerms>
+            <aspectTerm term="WiFi" polarity="negative" from="71" to="75" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="125:1">
+        <text>Not even a week old, free of dust and debris. Space bar decided to stick. Unsure why. After tapping the space bar again, it started functioning normally. Not so happy at the moment.</text>
+        <aspectTerms>
+            <aspectTerm term="Space bar" polarity="negative" from="46" to="55" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="126:1">
+        <text>Laptop was slow not sure if its only my laptop or the M1 chip itself is slow. Also the webcam is worse</text>
+        <aspectTerms>
+            <aspectTerm term="webcam" polarity="negative" from="87" to="93" implicit_sentiment="False" opinion_words="worse"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="127:1">
+        <text>The device seems to have a charging issue, doesn’t charge while using. When it runs low on power, have to shutdown and recharge. </text>
+        <aspectTerms>
+            <aspectTerm term="charging" polarity="negative" from="27" to="35" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="128:1">
+        <text>Still learning it coming from pc.  But it’s a nice little laptop. Definitely cool finger scanner. A plus.</text>
+        <aspectTerms>
+            <aspectTerm term="finger scanner" polarity="positive" from="82" to="96" implicit_sentiment="False" opinion_words="cool"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="129:1">
+        <text>It's a good laptop. It definitely gets the job done, its a part of my apple family now  I like it a lot, I wish I would've gotten the MacBook pro with more storage for what I want to do with it, but it works as is</text>
+        <aspectTerms>
+            <aspectTerm term="storage" polarity="negative" from="156" to="163" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="130:1">
+        <text>Gave this to my grandson for his startup, he uses it every day.  Easy to use.</text>
+        <aspectTerms>
+            <aspectTerm term="use" polarity="positive" from="45" to="49" implicit_sentiment="False" opinion_words="Easy"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="131:1">
+        <text>Good size laptop to transport. Very light weight and useful.</text>
+        <aspectTerms>
+            <aspectTerm term="size" polarity="positive" from="5" to="9" implicit_sentiment="False" opinion_words="Good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="132:1">
+        <text>It is an excellent value for laptop. Its not too heavy has nice amount of storage and ram. The the ability to turn into a tablet as well</text>
+        <aspectTerms>
+            <aspectTerm term="ram" polarity="positive" from="86" to="89" implicit_sentiment="False" opinion_words="nice"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="133:1">
+        <text>It is an excellent value for laptop. Its not too heavy has nice amount of storage and ram. The the ability to turn into a tablet as well</text>
+        <aspectTerms>
+            <aspectTerm term="storage" polarity="positive" from="74" to="81" implicit_sentiment="False" opinion_words="nice"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="134:1">
+        <text>Great machine. Fast for web surfing, Zoom video calls, streaming shows. Webcam is adequate but far from great. Battery life is very good - typical is like 8hrs. Tried a pen with MS OneNote and it wasnt responsive enough for note taking - so I returned the pen.</text>
+        <aspectTerms>
+            <aspectTerm term="Webcam" polarity="neutral" from="72" to="78" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="135:1">
+        <text>Great machine. Fast for web surfing, Zoom video calls, streaming shows. Webcam is adequate but far from great. Battery life is very good - typical is like 8hrs. Tried a pen with MS OneNote and it wasnt responsive enough for note taking - so I returned the pen.</text>
+        <aspectTerms>
+            <aspectTerm term="pen" polarity="negative" from="169" to="172" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="136:1">
+        <text>Great machine. Fast for web surfing, Zoom video calls, streaming shows. Webcam is adequate but far from great. Battery life is very good - typical is like 8hrs. Tried a pen with MS OneNote and it wasnt responsive enough for note taking - so I returned the pen.</text>
+        <aspectTerms>
+            <aspectTerm term="web surfing" polarity="positive" from="24" to="35" implicit_sentiment="False" opinion_words="Fast"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="137:1">
+        <text>Really good performance, battery disappointing</text>
+        <aspectTerms>
+            <aspectTerm term="battery" polarity="negative" from="25" to="32" implicit_sentiment="False" opinion_words="disappointing"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="138:1">
+        <text>Really good performance, battery disappointing</text>
+        <aspectTerms>
+            <aspectTerm term="performance" polarity="positive" from="12" to="23" implicit_sentiment="False" opinion_words="good"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="139:1">
+        <text>Crisp Picture Quality and Great Sound</text>
+        <aspectTerms>
+            <aspectTerm term="Sound" polarity="positive" from="32" to="37" implicit_sentiment="False" opinion_words="Great"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="140:1">
+        <text>Crisp Picture Quality and Great Sound</text>
+        <aspectTerms>
+            <aspectTerm term="Picture" polarity="positive" from="6" to="13" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="141:1">
+        <text>The fans were so loud it sound like table fan going off, straight out of the box.</text>
+        <aspectTerms>
+            <aspectTerm term="fans" polarity="negative" from="3" to="7" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="142:1">
+        <text> Brah the sound doesn’t work anymore just tire of spending money</text>
+        <aspectTerms>
+            <aspectTerm term="sound" polarity="negative" from="9" to="14" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="143:1">
+        <text> Was expecting better quality but the speaker sounds like a blown out car speaker.</text>
+        <aspectTerms>
+            <aspectTerm term="sounds" polarity="negative" from="46" to="52" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="144:1">
+        <text>Great computer. Extremely fast, hate windows 11 but the hardware is great.</text>
+        <aspectTerms>
+            <aspectTerm term="windows 11" polarity="negative" from="37" to="47" implicit_sentiment="False" opinion_words="hate"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="145:1">
+        <text>Very high quality, excellent graphics and CPU power. Perfect for a graphic design student.</text>
+        <aspectTerms>
+            <aspectTerm term="CPU" polarity="positive" from="42" to="45" implicit_sentiment="False" opinion_words="excellent"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="146:1">
+        <text>Excellent device. Works well. Very well designed. Bang for the bucks.</text>
+        <aspectTerms>
+            <aspectTerm term="designed" polarity="positive" from="40" to="48" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="147:1">
+        <text>Sleek, light design, fast charging and good battery life.</text>
+        <aspectTerms>
+            <aspectTerm term="charging" polarity="positive" from="26" to="34" implicit_sentiment="False" opinion_words="fast"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="148:1">
+        <text>Sleek, light design, fast charging and good battery life.</text>
+        <aspectTerms>
+            <aspectTerm term="design" polarity="positive" from="13" to="19" implicit_sentiment="False" opinion_words="light"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="149:1">
+        <text>Very fast but the camera is terrible, I called Apple and was told it was a design flaw they made the hole for the camera to small so not enough light gets through. Will be fixed in 2022. So I had to return it.</text>
+        <aspectTerms>
+            <aspectTerm term="camera" polarity="negative" from="18" to="24" implicit_sentiment="False" opinion_words="terrible"/>
+        </aspectTerms>
+    </sentence>
+    <sentence id="150:1">
+        <text>Gets the job done! Lighting fast… lasts forever off of a single charge.</text>
+        <aspectTerms>
+            <aspectTerm term="charge" polarity="positive" from="64" to="70" implicit_sentiment="True"/>
+        </aspectTerms>
+    </sentence>
+</sentences>
